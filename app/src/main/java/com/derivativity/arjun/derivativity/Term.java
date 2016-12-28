@@ -8,6 +8,7 @@ public class Term
 	//TODO
 	/*
 	 * parse term with omitted coefficient Ex. x^3  and  -x^2
+	 * parse term with exponent of 1 Ex. 5x^1 should be 5x
 	 */
 	
 	public Term getDerivative()
